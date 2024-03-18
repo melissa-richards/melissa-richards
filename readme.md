@@ -1,24 +1,12 @@
-<!--
-<h2 align="center">
-  Welcome to Ms Richards World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
 
-@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
 
 <a href="https://komarev.com/ghpvc/?username=melissa-richards">
   <img align="right" src="https://komarev.com/ghpvc/?username=melissa-richards&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
-<div style="padding:10px 15px; margin:15px; background:#000; color:#fff; text-align:center; white-space:nowrap; cursor:pointer;">
+<div>
  <!-- Intro  -->
 <h2> Hey There! I'm Ms. Richards!</h2>
 </div>
-
-
-
-
-
 
 <p align="center"> 
   <samp>
@@ -47,8 +35,8 @@
 😄 Pronouns: She/Her
 📚 Dedicated to making learning interactive, engaging, and accessible!
 🌟 Supporter of making apps to do the work for you 💅
-🌱 In ICS4U we are currently learning: Object Oriented Programming, GIT, Github
-🌱 In ICS3U we are currently learning: JAVA, Algorithms , GIT, Github
+🌱 In ICS4U we are currently learning: Object Oriented Programming, GIT, GitHub
+🌱 In ICS3U we are currently learning: JAVA, Algorithms, GIT, GitHub
 💬 Ask me about: Valorant, Pickles, Music
 
 </p>
