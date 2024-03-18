@@ -5,6 +5,7 @@
 </h2>
 -->
 
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
 
 <a href="https://komarev.com/ghpvc/?username=melissa-richards">
   <img align="right" src="https://komarev.com/ghpvc/?username=melissa-richards&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
