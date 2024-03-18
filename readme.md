@@ -12,9 +12,7 @@
   <samp>
     <a>「 I'm ✨ Ms Richards ✨, your friendly computer science teacher at Western Technical-Commercial School. With a passion for coding and a knack for making technology fun, I'm here to help guide you through the hacky world of computer science!</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
-    <br>
-    <br>
+    「 I am a full stack developer & Graphic Designer 」
   </samp>
 </p>
 
