@@ -5,7 +5,7 @@
 </a>
 <div>
  <!-- Intro  -->
-<h2> Hey There! I'm Ms. Richards!</h2>
+<h1> Hey There! I'm Ms. Richards!</h1>
 </div>
 
 <p align="center"> 
