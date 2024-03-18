@@ -4,13 +4,22 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
+<style>
+  .codedText {
+  padding:10px 15px;
+  margin:15px;
+  background:#000;
+  color:#fff;
+  text-align:center;
+  white-space: nowrap;
+  cursor:pointer; }
+</style>
 
 <a href="https://komarev.com/ghpvc/?username=melissa-richards">
   <img align="right" src="https://komarev.com/ghpvc/?username=melissa-richards&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+<div class="codedText">Hello world</div>
 
 <!-- Intro  -->
 <h3 align="center">
