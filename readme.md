@@ -12,7 +12,7 @@
   <samp>
     <a>「 I'm ✨ Ms Richards ✨, your friendly computer science teacher at Western Technical-Commercial School. With a passion for coding and a knack for making technology fun, I'm here to help guide you through the hacky world of computer science!</a>
     <br>
-    「 I am a full stack developer & Graphic Designer 」
+    「 I am a full-stack developer & graphic designer 」
   </samp>
 </p>
 
@@ -27,7 +27,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="[/assets/programmer.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fcodeit-official-coding-helloworld-codeit-gf675azxNAz2zDQ1vD&psig=AOvVaw2C919H7QjklUIzu0LLp-S2&ust=1710867749529000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCPx5Wl_oQDFQAAAAAdAAAAABAJ)" alt="Coding gif" />
+ <img align="right" width="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fcodeit-official-coding-helloworld-codeit-gf675azxNAz2zDQ1vD&psig=AOvVaw2C919H7QjklUIzu0LLp-S2&ust=1710867749529000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCPx5Wl_oQDFQAAAAAdAAAAABAJ" alt="Coding gif" />
 
 💻 Teaching Grade 11 and Grade 12 computer science students ICS3U and ICS4U.
 😄 Pronouns: She/Her
