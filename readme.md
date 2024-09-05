@@ -12,7 +12,9 @@
   <samp>
     <a>「 I'm ✨ Ms Richards ✨, your friendly computer science teacher at Western Technical-Commercial School. With a passion for coding and a knack for making technology fun, I'm here to help guide you through the hacky world of computer science!</a>
     <br>
-    「 I am a full-stack developer & graphic designer 」
+    「 I am a full-stack developer & graphic designer currently getting officially tech certified for the TDSB 」
+    <br> 
+    「 Contact me at mo.teaches.code@gmail.com if you are interested in programming mentorship, ADHD tools and support or just want to say hello! 」
   </samp>
 </p>
 
@@ -23,14 +25,15 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fcodeit-official-coding-helloworld-codeit-gf675azxNAz2zDQ1vD&psig=AOvVaw2C919H7QjklUIzu0LLp-S2&ust=1710867749529000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCPx5Wl_oQDFQAAAAAdAAAAABAJ" alt="Coding gif" />
 
-💻 Teaching Grade 11 and Grade 12 computer science students ICS3U and ICS4U.
+
+💻 Teaching/Mentoring
 😄 Pronouns: She/Her
 📚 Dedicated to making learning interactive, engaging, and accessible!
+🧠 Hub for ADHD & Dyslexic coding tools
 🌟 Supporter of making apps to do the work for you 💅
-🌱 In ICS4U we are currently learning: Object Oriented Programming, GIT, GitHub
-🌱 In ICS3U we are currently learning: JAVA, Algorithms, GIT, GitHub
+🌱 In ICS4U: Object Oriented Programming, GIT, GitHub
+🌱 In ICS3U: JAVA, Algorithms, GIT, GitHub
 💬 Ask me about: Valorant, Pickles, Music
 
 </p>
