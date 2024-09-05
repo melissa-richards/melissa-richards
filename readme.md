@@ -10,7 +10,7 @@
 
 <p align="center"> 
   <samp>
-    <a>「 I'm ✨ Ms Richards ✨, your friendly computer science teacher at Western Technical-Commercial School. With a passion for coding and a knack for making technology fun, I'm here to help guide you through the hacky world of computer science!</a>
+    <a>「 I'm ✨ Ms Richards ✨, your friendly computer science teacher at Western Technical-Commercial School with a passion for coding and a knack for making tech fun!</a>
     <br>
     「 I am a full-stack developer & graphic designer currently getting officially tech certified for the TDSB 」
     <br> 
