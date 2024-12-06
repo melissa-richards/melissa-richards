@@ -10,9 +10,9 @@
 
 <p align="center"> 
   <samp>
-    <a>「 I'm ✨ Ms Richards ✨, your friendly computer science teacher at Western Technical-Commercial School with a passion for coding and a knack for making tech fun!</a>
+    <a>「 I'm ✨ Ms Richards ✨</a>
     <br>
-    「 I am a full-stack developer & graphic designer currently getting officially tech certified for the TDSB 」
+    「 Full-stack programmer & graphic designer currently getting officially tech certified for the TDSB 」
     <br> 
     「 Contact me at mo.teaches.code@gmail.com if you are interested in programming mentorship, ADHD tools and support or just want to say hello! 」
   </samp>
